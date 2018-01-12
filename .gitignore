@@ -1,0 +1,10 @@
+# system ignore
+.DS_Store
+Thumbs.db
+.metadata
+dist
+#nodejs
+
+node_modules
+.idea
+bower_components
